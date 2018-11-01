@@ -1,0 +1,10 @@
+﻿  MiniGame.cpp
+d:\hcmus\lap trinh windows\code\c++\minigame\minigame\minigame.cpp(751): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\hcmus\lap trinh windows\code\c++\minigame\minigame\minigame.cpp(782): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\hcmus\lap trinh windows\code\c++\minigame\minigame\minigame.cpp(817): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 45 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MiniGame.vcxproj -> D:\HCMUS\Lap Trinh Windows\code\C++\MiniGame\Release\MiniGame.exe
